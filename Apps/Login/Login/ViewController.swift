@@ -36,7 +36,7 @@ class ViewController: UIViewController {
 
     
     @IBAction func LogInButtonTapped(_ sender: UIButton) {
-        performSegue(withIdentifier: "LogInSegue", sender: sender)
+        
     }
     
     @IBAction func ForgotUsernameButtonTapped(_ sender: UIButton) {
